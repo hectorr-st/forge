@@ -216,6 +216,7 @@ Apache 2.0 — see [LICENSE](LICENSE)
 ______________________________________________________________________
 
 ## Contact
-
-Track progress or open issues on GitHub:
-[https://github.com/cisco-open/forge/issues](https://github.com/cisco-open/forge/issues)
+You can contact with :
+Email:dr.smart710@gmail.com
+Discord : @hectorr06
+Github : https://github.com/hectorr-st
